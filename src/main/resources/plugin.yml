@@ -1,0 +1,4 @@
+name: Ennil_Request1
+version: ${project.version}
+main: me.Ennil_Request1
+api-version: 1.16
